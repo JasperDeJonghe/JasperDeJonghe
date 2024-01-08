@@ -7,7 +7,6 @@
 
 ![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=CyberPenguin)
 
-<img align="center" alt="My pet" width="200" src="https://www.codedex.io/images/code-nights/baby-neutral-dragon.gif">
 
 ### Languages and Tools:
 

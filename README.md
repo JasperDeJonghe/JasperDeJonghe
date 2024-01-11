@@ -21,4 +21,3 @@
   <a href="https://godotengine.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot game engine" width="40" height="40"/></a>
 </p>
 <img align="left" height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=JasperDeJonghe&show_icons=true&locale=en&layout=compact" alt="jasperdj317" />
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=JasperDeJonghe&show_icons=true&locale=en" alt="jasperdj317" />

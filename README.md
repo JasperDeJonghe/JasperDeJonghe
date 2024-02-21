@@ -5,9 +5,6 @@
 - 👨‍💻 My projects are available [here](https://jasperdejonghe.vercel.app)
 - 💜 #30NitesOfCode: [Check out my progress](https://codedex.io/@CyberPenguin/30-nites-of-code)  
 
-![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=CyberPenguin)
-
-
 ### Languages and Tools:
 
 <p align="left">

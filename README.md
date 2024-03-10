@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<p align="left">
+<p allign="left">
   <a href="https://www.arduino.cc/" target="_blank"> <img src="images/Arduino.png" alt="arduino" width="100" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="images/C#.png" alt="csharp" width="100" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css" width="100" height="40"/></a>

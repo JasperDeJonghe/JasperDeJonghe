@@ -1,6 +1,4 @@
 <img src="images/name4.png" width=100%> 
-- 💽 [#30NitesOfCode](https://www.codedex.io/@CyberPenguin/30-nites-of-code)
-<img src="https://www.codedex.io/api/petStatus?user=CyberPenguin" width=20%> 
 
 ### Languages and Tools:
 

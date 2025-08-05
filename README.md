@@ -1,5 +1,3 @@
-<img src="images/name4.png" width=100%> 
-
 ### Languages and Tools:
 
 <p align="center">
